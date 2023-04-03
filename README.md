@@ -2,7 +2,7 @@
 
 # Overview - Explain the purpose of this analysis.
 
-This machine learning model's purpose is to create a tool for Alphabet Soup select applicants for funding with the highest chance of success. A dataset of previous organizations that have been funded by Alphabet soup was provided, which contained categorical and numerical data including industry sectors, use cases, income, funding request, and success or failure. A neural network will be trained to predict the success or failure of an organization, with a goal of 75% accuracy. 
+This machine learning model's purpose is to create a tool for Alphabet Soup to select applicants for funding with the highest chance of success. A dataset of previous organizations that have been funded by Alphabet soup was provided, which contained categorical and numerical data including industry sectors, use cases, income, funding request, and success or failure. A neural network will be trained to predict the success or failure of an organization, with a goal of 75% accuracy. 
 
 # Results 
 
