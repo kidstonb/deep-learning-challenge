@@ -6,7 +6,7 @@ This machine learning model's purpose is to create a tool for Alphabet Soup sele
 
 # Results 
 
- Markup : - Bullet list
+- Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
           - Bullet list item 2 
